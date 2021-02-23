@@ -1,3 +1,7 @@
-body {
-    font-size: 10px;
+.greeting + .showing {
+    display:block;
+}
+
+.text {
+    display: none;
 }
